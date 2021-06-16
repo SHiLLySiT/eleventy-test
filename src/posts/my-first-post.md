@@ -10,6 +10,8 @@ tags:
   - center
   - right
 ---
+![](/static/img/duolingo-logo.png)
+
 # This is a Heading h1
 
 ## This is a Heading h2
